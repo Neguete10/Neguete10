@@ -1,6 +1,6 @@
 # Hello there! This is Henrique Lima & Welcome to my GitHub!
 
-<img src="https://www.ox.ac.uk/sites/files/oxford/styles/ow_medium_feature/s3/field/field_image_main/shutterstock_1008152344.jpg?itok=l3-H-BPu"  width="800" height="350">
+<img src="https://www.ox.ac.uk/sites/files/oxford/styles/ow_medium_feature/s3/field/field_image_main/shutterstock_1008152344.jpg?itok=l3-H-BPu"  width="600" height="250">
 
 ## ☼--- About Me ---☼
 Henrique Lima is a self-motivated, multilingual, Computer Engineer with a strong foundation in collaborative leadership. He has proven ability to understand user needs and work inside a project timeline to deliver effective software solutions using agile principles.
