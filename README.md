@@ -1,6 +1,6 @@
 # Hello there! This is Henrique Lima & Welcome to my GitHub!
 
-<img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fdedicated-pcb-layout-artist-sustainable-profession-christopher-chae&ved=0CBcQjRxqFwoTCIjvpoHdnJcDFQAAAAAdAAAAABBT&opi=89978449"  width="600" height="250">
+<img src="https://media.licdn.com/dms/image/v2/C4E12AQHxofFnzd31hA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1548536585019?e=1792627200&v=beta&t=p7OTdzBm-0zPuCi8CoDgnLYabES4sg55fVdoIIqafTc"  width="600" height="250">
 
 ## ☼--- About Me ---☼
 Henrique Lima is a self-motivated, multilingual, Computer Engineer with a strong foundation in collaborative leadership. He has proven ability to understand user needs and work inside a project timeline to deliver effective software solutions using agile principles.
