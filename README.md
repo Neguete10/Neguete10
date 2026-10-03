@@ -1,6 +1,6 @@
 # Hello there! This is Henrique Lima & Welcome to my GitHub!
 
-<img src="[https://www.ox.ac.uk/sites/files/oxford/styles/ow_medium_feature/s3/field/field_image_main/shutterstock_1008152344.jpg?itok=l3-H-BPu](https://resources.altium.com/sites/default/files/blogs/How%20to%20Become%20a%20PCB%20Designer%20in%20Today’s%20World-97597.jpg)"  width="600" height="250">
+<img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fdedicated-pcb-layout-artist-sustainable-profession-christopher-chae&ved=0CBcQjRxqFwoTCIjvpoHdnJcDFQAAAAAdAAAAABBT&opi=89978449"  width="600" height="250">
 
 ## ☼--- About Me ---☼
 Henrique Lima is a self-motivated, multilingual, Computer Engineer with a strong foundation in collaborative leadership. He has proven ability to understand user needs and work inside a project timeline to deliver effective software solutions using agile principles.
